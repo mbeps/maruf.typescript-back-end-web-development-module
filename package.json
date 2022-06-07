@@ -1,0 +1,22 @@
+{
+    "name": "back-end-web-development-extension-pack",
+    "displayName": "Back End Web Development Extension Pack",
+    "description": "Collection of extensions for backend web development only",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.67.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "Prisma.prisma",
+		"ms-edgedevtools.vscode-edge-devtools",
+		"ritwickdey.LiveServer",
+		"ReliableWebhook.ReliableWebhook",
+        "GraphQL.vscode-graphql",
+		"rangav.vscode-thunder-client",
+		"humao.rest-client",
+		"ply-ct.vscode-ply" 
+    ]
+}
