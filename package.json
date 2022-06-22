@@ -1,6 +1,6 @@
 {
-    "name": "back-end-web-development-extension-pack",
-    "displayName": "Back End Web Development Extension Pack",
+    "name": "back-end-web-development-module",
+    "displayName": "Back End Web Development Module",
     "description": "Collection of extensions for backend web development only",
     "version": "0.0.1",
     "engines": {
