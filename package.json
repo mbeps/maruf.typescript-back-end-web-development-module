@@ -17,6 +17,7 @@
         "GraphQL.vscode-graphql",
 		"rangav.vscode-thunder-client",
 		"humao.rest-client",
-		"ply-ct.vscode-ply" 
+		"ply-ct.vscode-ply",
+        "nrwl.angular-console"
     ]
 }
