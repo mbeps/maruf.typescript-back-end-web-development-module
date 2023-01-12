@@ -3,7 +3,7 @@
     "displayName": "TypeScript Back End Web Development Module",
     "description": "Collection of extensions for backend web development only",
     "publisher": "Maruf",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "repository": "https://github.com/mbeps/maruf.typescript-back-end-web-development-module",
     "engines": {
         "vscode": "^1.67.0"
